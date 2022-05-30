@@ -1,3 +1,6 @@
+
+![food kart](https://user-images.githubusercontent.com/39941574/171029464-0c742aec-33a3-4c15-bc4c-dba557a1d015.png)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
