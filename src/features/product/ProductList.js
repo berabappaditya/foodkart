@@ -17,6 +17,7 @@ function ProductList() {
     if (!typeArray.includes(item.type)) {
       typeArray.push(item.type);
     }
+    return "";
   });
 
   const cartItemIDArr = [];
@@ -24,6 +25,7 @@ function ProductList() {
     if (!cartItemIDArr.includes(item.id)) {
       cartItemIDArr.push(item.id);
     }
+    return "";
   });
 
   function typeFilter(type) {
