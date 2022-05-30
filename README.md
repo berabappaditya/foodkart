@@ -1,5 +1,5 @@
 # FoodKart
-[visit](https://adityafoodkart.netlify.app/home)
+[visit](https://adityafoodkart.netlify.app)
 
 ## Landing Page
 ![foodKart](https://user-images.githubusercontent.com/39941574/171029752-a1952274-9adb-4f25-bb2c-ebfb8d14b5db.png)
