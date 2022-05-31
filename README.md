@@ -1,3 +1,15 @@
+# FoodKart
+[visit](https://adityafoodkart.netlify.app)
+
+## Landing Page
+![foodKart](https://user-images.githubusercontent.com/39941574/171029752-a1952274-9adb-4f25-bb2c-ebfb8d14b5db.png)
+## cart
+![FoodKart cart](https://user-images.githubusercontent.com/39941574/171030075-2c2e9912-202a-4f3d-a728-d78d98fa853e.png)
+## searching works
+
+![search foodKart](https://user-images.githubusercontent.com/39941574/171030486-b7735b36-f8f5-4109-ab3a-0eae4e5cf562.png)
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
