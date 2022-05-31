@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { getProductItems } from "./features/product/productSlice";
 import Header from "./features/Header";
 import Cart from "./features/cart/Cart";
@@ -23,7 +23,7 @@ function App() {
     );
   }
   return (
-    <BrowserRouter className="main-app">
+    <HashRouter className="main-app">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -31,7 +31,7 @@ function App() {
         <Route path="/search" element={<Search />} />
         <Route path="/cart" element={<Cart />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
